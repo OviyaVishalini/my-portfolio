@@ -808,7 +808,7 @@ font-weight:500;
 
     .nav-close-btn{
       position: absolute;
-      background: url(../assests/icons/cross-svgrepo-com.svg)no-repeat;
+      background: url(./assets/icons/cross-svgrepo-com.svg)no-repeat;
       background-size: 12px;
       background-position: center;
       width: 40px;
@@ -824,7 +824,7 @@ font-weight:500;
     }
 
     .nav-menu-btn{
-      background: url(../assests/icons/burger-menu-left.svg)no-repeat;
+      background: url(./assets/icons/burger-menu-left.svg)no-repeat;
       background-size: 30px;
       background-position: center;
       width: 40px;
